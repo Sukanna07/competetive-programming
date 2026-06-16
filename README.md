@@ -1,4 +1,5 @@
-<u>#competetive-programming</u>
+#competetive-programming
+<br>
 My first Repositories
 <br>
 Author - Sukanna Dey
